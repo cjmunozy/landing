@@ -1,8 +1,7 @@
-let loaded = ( eventLoaded ) => {
-
+let loaded = ( eventLoaded ) => {  
     let myform = document.getElementById('formulario');
-    myform.addEventListener("submit", ( eventSubmit ) => { 
-
+    myform.addEventListener("submit", ( eventSubmit ) => {
+        
         debugger;
     
       })
