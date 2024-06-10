@@ -595,6 +595,9 @@ a {
         margin-top: 54px; } }
     .footer-section .links-wrap ul li {
       margin-bottom: 10px; }
+  .footer-section .footer-logo-wrap {
+      margin-top: 40px;
+  }
   .footer-section .footer-logo-wrap .footer-logo {
     font-size: 32px;
     font-weight: 500;
